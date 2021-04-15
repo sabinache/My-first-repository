@@ -9,11 +9,7 @@
      <source media="(min-width: 650px)" srcset="https://media.licdn.com/dms/image/C5603AQG2U6E2jHGNHQ/profile-displayphoto-shrink_200_200/0?e=1583366400&v=beta&t=_Mdo1T1aaRs2032SdW7_lwbN6KG7260nYqLwwjhCdA0" alt="Man in black>
   <img src=" img_girl.jpg style="width:auto;">
    </picture>
-   <nav>
-     <center>
-       <a href="https://www.linkedin.com/sabin-marian-ouatu-" target="_blank">
-         <button>Linkedin</button></a></center>
-   </nav>
+   
    <body>
      <h1>Ouatu Sabin Marian</h1>
      <h3>Area Supervisor Administrativ - SC.FMCG MARKETING & DISTRIBUTIE.SRL</h3>
